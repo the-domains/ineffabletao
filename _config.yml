@@ -1,0 +1,14 @@
+layout_spectrum: 0.5385214583948255
+typography_spectrum: 0.6424470040947199
+color:
+  brandStrength: 0.35570566169917583
+  lightness: 0.4050595893058926
+  saturation: 0.05120559758506715
+  rhythmicContrast: 0.1255042697302997
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: IneffableTao
