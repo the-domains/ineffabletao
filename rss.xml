@@ -4,7 +4,7 @@
         <description><![CDATA[IneffableTao]]></description>
         <link>http://ineffabletao.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 15:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 15:22:21 GMT</lastBuildDate>
         <atom:link href="http://ineffabletao.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1b2827a-b34e-45ee-8c64-e14f8a31f24d.jpg</link>
             <guid isPermaLink="false">2c2a6b56-ee1a-4e7d-9b8a-f4293fd3ae1f</guid>
             <pubDate>Tue, 19 Jul 2016 15:22:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31a16aba-ed8f-4f20-b332-5370289aabcd.jpg" alt="as balance dictates">]]></description>
-            <link>http://ineffabletao.com/as-balance-dictates/index.html</link>
-            <guid isPermaLink="false">9837c352-242b-4ac7-b451-6f64018ba4d7</guid>
-            <pubDate>Mon, 18 Jul 2016 16:35:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
